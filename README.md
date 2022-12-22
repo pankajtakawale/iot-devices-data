@@ -1,6 +1,6 @@
 # iot-devices-database
 
-The IoT Devices dataset represents the traffic emitted during the setup of 14 smart home IoT devices.
+The IoT Devices dataset represents the traffic emitted during the setup of **15 smart home IoT devices**.
 
 The data is available to download from Google Drive [location](https://drive.google.com/drive/folders/1h44A_70NIUPESQeik_O9H8BcE6yaBvC7)
 
