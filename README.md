@@ -7,7 +7,7 @@ The data is available to download from Google Drive [location](https://drive.goo
 Each sub-directory represents the IoT device named as device's mac address. 
 
 ```
-ec:2b:eb:47:a1:56.pcap  Capture network traffic for a device
+ec:2b:eb:47:a1:56.pcap  Captured network traffic for a device
 devicemeta.json         Device Meta data
 domainips.json          Domain to IP mapping and count for the device's remote endpoints
 endpoints.json          List of remote endpoints device communicated with and its details
