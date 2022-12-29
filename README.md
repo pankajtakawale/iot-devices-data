@@ -27,11 +27,6 @@ endpoints.json          List of remote endpoints device communicated with and it
   "domain_name": "todo-ta-g7g.amazon.com",
   "tls_version": "1.2",
   "self_signed": false,
-  "key_exchange": "ECDHE",
-  "auth_algo": "RSA",
-  "encryption_algo": "AES128",
-  "operation_auth_mode": "GCM",
-  "hashing_algo": "SHA256",
   "cert_details": [
     "SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256",
     " subject: CN=todo-ta-g7g.amazon.com",
