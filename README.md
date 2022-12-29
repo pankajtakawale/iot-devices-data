@@ -25,7 +25,6 @@ endpoints.json          List of remote endpoints device communicated with and it
   "ip": "52.46.133.19",
   "security_posture": "encrypted",
   "domain_name": "todo-ta-g7g.amazon.com",
-  "tls_version": "1.2",
   "self_signed": false,
   "cert_details": [
     "SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256",
